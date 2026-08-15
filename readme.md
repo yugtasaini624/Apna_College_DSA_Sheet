@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-23%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-11.9%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-27%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-14%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -158,14 +158,14 @@ The journey covers:
 
 ## 📌 SECTION 05 — Arrays Part 5
 
-### ⬜ 0 / 4 Completed
+### 🟩 0 / 4 Completed
 
-- ⬜✔ Trapping Rainwater
-- ⬜✔ Sliding Window Maximum
-- ⬜✔ Largest Rectangle in a Histogram
-- ⬜✔ Reverse Pairs
+- 🟩✔ Trapping Rainwater
+- 🟩✔ Sliding Window Maximum
+- 🟩✔ Largest Rectangle in a Histogram
+- 🟩✔ Reverse Pairs
 
-**Status: ⏳ PENDING**
+**Status: 🟩 COMPLETE**
 
 ---
 
@@ -593,7 +593,7 @@ The journey covers:
 
 | Topic | Problems | Completed | Progress |
 | ------------------------------ | -------- | ------- | ------------------------ |
-| 🟢 Arrays | 27 | 23 / 28 | ████████████████░░░░ 80% |
+| 🟢 Arrays | 27 | 27 / 27 | ████████████████████ 100% |
 | 🔤 Strings | 12 | 0 / 12 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🔍 Binary Search | 7 | 0 / 7 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🔄 Recursion & Backtracking | 11 | 0 / 11 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -884,9 +884,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **23 / 193 PROBLEMS SOLVED**
+🟩 **27 / 193 PROBLEMS SOLVED**
 
-📈 **11.9% COMPLETE**
+📈 **14% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
