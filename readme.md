@@ -81,9 +81,9 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 23 | 
+| ✅ Problems Solved | 27 | 
 | ⏳ Remaining | 166 | 
-| 📈 Completion | 11.9% | 
+| 📈 Completion | 14% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
