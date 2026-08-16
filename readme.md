@@ -158,7 +158,7 @@ The journey covers:
 
 ## 📌 SECTION 05 — Arrays Part 5
 
-### 🟩 0 / 4 Completed
+### 🟩 4 / 4 Completed
 
 - 🟩✔ Trapping Rainwater
 - 🟩✔ Sliding Window Maximum
@@ -893,7 +893,6 @@ The README is updated alongside the repository so the progress remains visible.
 🚀 **NEXT → KEEP SOLVING**
 
 </p>
- ---
  
  <p align="center">
 
