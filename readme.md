@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-27%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-14%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-39%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-20.2%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -81,16 +81,16 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 27 | 
-| ⏳ Remaining | 166 | 
-| 📈 Completion | 14% | 
+| ✅ Problems Solved | 39 | 
+| ⏳ Remaining | 154 | 
+| 📈 Completion | 20.2% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
  
 ### Progress Bar 
  
-██████░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+███████ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
  
 ---
 # 🗺️ COMPLETE DSA ROADMAP
@@ -171,31 +171,31 @@ The journey covers:
 
 ## 📌 SECTION 06 — Strings Part 1
 
-### ⬜ 0 / 6 Completed
+### 🟩 6 / 6 Completed
 
-- ⬜✔ Valid Palindrome
-- ⬜✔ Valid Anagram
-- ⬜✔ Reverse Words in String
-- ⬜✔ Remove All Occurrences
-- ⬜✔ Permutation in String
-- ⬜✔ String Compression
+- 🟩✔ Valid Palindrome
+- 🟩✔ Valid Anagram
+- 🟩✔ Reverse Words in String
+- 🟩✔ Remove All Occurrences
+- 🟩✔ Permutation in String
+- 🟩✔ String Compression
 
-**Status: ⏳ PENDING**
+**Status: 🟩 COMPLETE**
 
 ---
 
 ## 📌 SECTION 07 — Strings Part 2
 
-### ⬜ 0 / 6 Completed
+### 🟩 6 / 6 Completed
 
-- ⬜✔ Longest Common Prefix
-- ⬜✔ Group Anagrams
-- ⬜✔ Minimum Window Substring
-- ⬜✔ KMP Algorithm
-- ⬜✔ Robin-Karp Algorithm
-- ⬜✔ Reverse Words in String
+- 🟩✔ Longest Common Prefix
+- 🟩✔ Group Anagrams
+- 🟩✔ Minimum Window Substring
+- 🟩✔ KMP Algorithm
+- 🟩✔ Robin-Karp Algorithm
+- 🟩✔ Reverse Words in String
 
-**Status: ⏳ PENDING**
+**Status: 🟩 COMPLETE**
 
 ---
 
@@ -594,7 +594,7 @@ The journey covers:
 | Topic | Problems | Completed | Progress |
 | ------------------------------ | -------- | ------- | ------------------------ |
 | 🟢 Arrays | 27 | 27 / 27 | ████████████████████ 100% |
-| 🔤 Strings | 12 | 0 / 12 | ░░░░░░░░░░░░░░░░░░░░ 0% |
+| 🔤 Strings | 12 | 12 / 12 | ████████████████████ 100% |
 | 🔍 Binary Search | 7 | 0 / 7 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🔄 Recursion & Backtracking | 11 | 0 / 11 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🔗 Linked List | 12 | 0 / 12 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -884,9 +884,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **27 / 193 PROBLEMS SOLVED**
+🟩 **39 / 193 PROBLEMS SOLVED**
 
-📈 **14% COMPLETE**
+📈 **20.2% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
