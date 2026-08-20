@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-47%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-24.4%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-57%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-29.5%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -81,16 +81,16 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 47 | 
-| ⏳ Remaining | 146 | 
-| 📈 Completion | 24.4% | 
+| ✅ Problems Solved | 57 | 
+| ⏳ Remaining | 136 | 
+| 📈 Completion | 29.5% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
  
 ### Progress Bar 
  
-███████ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+████████ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
  
 ---
 # 🗺️ COMPLETE DSA ROADMAP
@@ -108,7 +108,7 @@ The journey covers:
 - 🟩✔ Stock Buy & Sell
 - 🟩✔ Pow (x^n)
 
-**Status: 🟩 COMPLETE**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -123,7 +123,7 @@ The journey covers:
 - 🟩✔ 4Sum
 - 🟩✔ Search in 2D Matrix
 
-**Status: 🟩 COMPLETE**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -138,7 +138,7 @@ The journey covers:
 - 🟩✔ Word Search
 - 🟩✔ Product of Array Except Self
 
-**Status: 🟩 COMPLETE**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -152,7 +152,7 @@ The journey covers:
 - 🟩✔ Spiral Matrix
 - 🟩✔ Search in Sorted Matrix II
 
-**Status: 🟩 COMPLETE**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -165,7 +165,7 @@ The journey covers:
 - 🟩✔ Largest Rectangle in a Histogram
 - 🟩✔ Reverse Pairs
 
-**Status: 🟩 COMPLETE**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -180,7 +180,7 @@ The journey covers:
 - 🟩✔ Permutation in String
 - 🟩✔ String Compression
 
-**Status: 🟩 COMPLETE**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -195,7 +195,7 @@ The journey covers:
 - 🟩✔ Robin-Karp Algorithm
 - 🟩✔ Reverse Words in String
 
-**Status: 🟩 COMPLETE**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -211,36 +211,36 @@ The journey covers:
 - 🟩✔ Painter's Partition
 - 🟩✔ Median of 2 Sorted Arrays
 
-**Status: 🟩 COMPLETE**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
 ## 📌 SECTION 09 — Recursion & Backtracking
 
-### ⬜ 1 / 6 Completed
+### 🟩 6 / 6 Completed
 
-- ⬜✔ Combination Sum I
-- ⬜✔ Combination Sum II
-- ⬜✔ Palindrome Partitioning
+- 🟩✔ Combination Sum I
+- 🟩✔ Combination Sum II
+- 🟩✔ Palindrome Partitioning
 - 🟩✔ N Queens
-- ⬜✔ Sudoku Solver
-- ⬜✔ M-Coloring Problem
+- 🟩✔ Sudoku Solver
+- 🟩✔ M-Coloring Problem
 
-**Status: ⏳ PENDING**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
 ## 📌 SECTION 10 — Recursion & Backtracking
 
-### ⬜ 0 / 5 Completed
+### 🟩 5 / 5 Completed
 
-- ⬜✔ Knights Tour
-- ⬜✔ Subsets II
-- ⬜✔ Merge Sort
-- ⬜✔ Rat in a Maze
-- ⬜✔ Count Inversions
+- 🟩✔ Knights Tour
+- 🟩✔ Subsets II
+- 🟩✔ Merge Sort
+- 🟩✔ Rat in a Maze
+- 🟩✔ Count Inversions
 
-**Status: ⏳ PENDING**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -596,7 +596,7 @@ The journey covers:
 | 🟢 Arrays | 27 | 27 / 27 | ████████████████████ 100% |
 | 🔤 Strings | 12 | 12 / 12 | ████████████████████ 100% |
 | 🔍 Binary Search | 7 | 7 / 7 | ████████████████████ 100% |
-| 🔄 Recursion & Backtracking | 11 | 1 / 11 | █░░░░░░░░░░░░░░░░░░░ 9.8% |
+| 🔄 Recursion & Backtracking | 11 | 11 / 11 | ████████████████████ 100% |
 | 🔗 Linked List | 12 | 0 / 12 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 📚 Stacks & Queues | 16 | 0 / 16 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🌳 Binary Trees | 24 | 0 / 24 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -659,21 +659,25 @@ The process is:
 ```text
 DSA-Practice
 │
-├── Arrays Part1
+├── Array_part1
 │
-├── Arrays Part2
+├── Array_part2
 │
-├── Arrays Part3
+├── Array_part3
 │
-├── Arrays Part4
+├── Array_part4
 │
-├── Arrays Part5
+├── Array_part5
 │
-├── Strings
+├── Strings_part1
 │
-├── Binary-Search
+├── Strings_part2
 │
-├── Recursion-Backtracking
+├── Binary_Search
+│
+├── Recursion_And_Backtracking_part1
+│
+├── Recursion_And_Backtracking_part2
 │
 ├── Linked-List
 │
@@ -884,9 +888,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **47 / 193 PROBLEMS SOLVED**
+🟩 **57 / 193 PROBLEMS SOLVED**
 
-📈 **24.4% COMPLETE**
+📈 **29.5% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
