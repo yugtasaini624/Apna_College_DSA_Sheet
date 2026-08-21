@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-63%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-32.6%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-69%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-35.8%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -81,9 +81,9 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 63 | 
-| ⏳ Remaining | 130 | 
-| 📈 Completion | 32.6% | 
+| ✅ Problems Solved | 69 | 
+| ⏳ Remaining | 124 | 
+| 📈 Completion | 35.8% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
@@ -261,16 +261,16 @@ The journey covers:
 
 ## 📌 SECTION 12 — Linked List Part 2
 
-### ⬜ 0 / 6 Completed
+### 🟩 6 / 6 Completed
 
-- ⬜✔ Is LL a Palindrome or Not
-- ⬜✔ Clone List with Random Pointers
-- ⬜✔ Reverse Linked List II
-- ⬜✔ Add 2 Numbers
-- ⬜✔ Reverse Nodes in K Groups
-- ⬜✔ Rotate a Linked List
+- 🟩✔ Is LL a Palindrome or Not
+- 🟩✔ Clone List with Random Pointers
+- 🟩✔ Reverse Linked List II
+- 🟩✔ Add 2 Numbers
+- 🟩✔ Reverse Nodes in K Groups
+- 🟩✔ Rotate a Linked List
 
-**Status: ⏳ PENDING**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -597,7 +597,7 @@ The journey covers:
 | 🔤 Strings | 12 | 12 / 12 | ████████████████████ 100% |
 | 🔍 Binary Search | 7 | 7 / 7 | ████████████████████ 100% |
 | 🔄 Recursion & Backtracking | 11 | 11 / 11 | ████████████████████ 100% |
-| 🔗 Linked List | 12 | 6 / 12 | ██████████░░░░░░░░░░ 50% |
+| 🔗 Linked List | 12 | 12 / 12 | ████████████████████ 100% |
 | 📚 Stacks & Queues | 16 | 0 / 16 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🌳 Binary Trees | 24 | 0 / 24 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🌲 BST | 15 | 0 / 15 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -890,9 +890,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **63 / 193 PROBLEMS SOLVED**
+🟩 **69 / 193 PROBLEMS SOLVED**
 
-📈 **32.6% COMPLETE**
+📈 **35.8% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
