@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-57%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-29.5%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-63%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-32.6%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -81,16 +81,16 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 57 | 
-| ⏳ Remaining | 136 | 
-| 📈 Completion | 29.5% | 
+| ✅ Problems Solved | 63 | 
+| ⏳ Remaining | 130 | 
+| 📈 Completion | 32.6% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
  
 ### Progress Bar 
  
-████████ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+███████████████████ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
  
 ---
 # 🗺️ COMPLETE DSA ROADMAP
@@ -246,16 +246,16 @@ The journey covers:
 
 ## 📌 SECTION 11 — Linked List Part 1
 
-### ⬜ 0 / 6 Completed
+### 🟩 6 / 6 Completed
 
-- ⬜✔ Middle of a Linked List
-- ⬜✔ Reverse Linked List
-- ⬜✔ Remove Cycle in a LL
-- ⬜✔ Detect Cycle in a LL
-- ⬜✔ Merge 2 Sorted LL
-- ⬜✔ Flatten a Linked List
+- 🟩✔ Middle of a Linked List
+- 🟩✔ Reverse Linked List
+- 🟩✔ Remove Cycle in a LL
+- 🟩✔ Detect Cycle in a LL
+- 🟩✔ Merge 2 Sorted LL
+- 🟩✔ Flatten a Linked List
 
-**Status: ⏳ PENDING**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -597,7 +597,7 @@ The journey covers:
 | 🔤 Strings | 12 | 12 / 12 | ████████████████████ 100% |
 | 🔍 Binary Search | 7 | 7 / 7 | ████████████████████ 100% |
 | 🔄 Recursion & Backtracking | 11 | 11 / 11 | ████████████████████ 100% |
-| 🔗 Linked List | 12 | 0 / 12 | ░░░░░░░░░░░░░░░░░░░░ 0% |
+| 🔗 Linked List | 12 | 6 / 12 | ██████████░░░░░░░░░░ 50% |
 | 📚 Stacks & Queues | 16 | 0 / 16 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🌳 Binary Trees | 24 | 0 / 24 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🌲 BST | 15 | 0 / 15 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -679,7 +679,9 @@ DSA-Practice
 │
 ├── Recursion_And_Backtracking_part2
 │
-├── Linked-List
+├── LinkedList_part1
+│
+├── LinkedList_part2
 │
 ├── Stacks-Queues
 │
@@ -888,9 +890,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **57 / 193 PROBLEMS SOLVED**
+🟩 **63 / 193 PROBLEMS SOLVED**
 
-📈 **29.5% COMPLETE**
+📈 **32.6% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
