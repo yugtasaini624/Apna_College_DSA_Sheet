@@ -48,13 +48,13 @@ Binary Search
    ↓
 Recursion & Backtracking
    ↓
-Linked Lists
+Linked List
    ↓
 Stacks & Queues
    ↓
 Binary Trees
    ↓
-BST
+Binary Search Tree
    ↓
 Heaps
    ↓
