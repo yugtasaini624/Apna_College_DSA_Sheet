@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-69%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-35.8%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-75%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-38.9%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -48,13 +48,13 @@ Binary Search
    ↓
 Recursion & Backtracking
    ↓
-Linked Lists
+Linked List
    ↓
 Stacks & Queues
    ↓
 Binary Trees
    ↓
-BST
+Binary Search Tree
    ↓
 Heaps
    ↓
@@ -81,9 +81,9 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 69 | 
-| ⏳ Remaining | 124 | 
-| 📈 Completion | 35.8% | 
+| ✅ Problems Solved | 75 | 
+| ⏳ Remaining | 118 | 
+| 📈 Completion | 38.9% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
@@ -276,9 +276,16 @@ The journey covers:
 
 ## 📌 SECTION 13 — Stacks & Queues Part 1
 
-### ⬜ 0 / 6 Completed
+### 🟩 6 / 6 Completed
 
-**Status: ⏳ PENDING**
+- 🟩✔ Implement Stack using Queue
+- 🟩✔ Next Greater Element I
+- 🟩✔ Implement Queue using Stack
+- 🟩✔ Valid Parentheses
+- 🟩✔ 1st Non Repeating in Stream
+- 🟩✔ Reverse 1st K Elements of Queue
+
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -598,7 +605,7 @@ The journey covers:
 | 🔍 Binary Search | 7 | 7 / 7 | ████████████████████ 100% |
 | 🔄 Recursion & Backtracking | 11 | 11 / 11 | ████████████████████ 100% |
 | 🔗 Linked List | 12 | 12 / 12 | ████████████████████ 100% |
-| 📚 Stacks & Queues | 16 | 0 / 16 | ░░░░░░░░░░░░░░░░░░░░ 0% |
+| 📚 Stacks & Queues | 16 | 6 / 16 | █████░░░░░░░░░░░░░░░░ 30% |
 | 🌳 Binary Trees | 24 | 0 / 24 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🌲 BST | 15 | 0 / 15 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | ⚡ Heaps | 6 | 0 / 6 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -683,7 +690,11 @@ DSA-Practice
 │
 ├── LinkedList_part2
 │
-├── Stacks-Queues
+├── Stacks_And_Queues_part1
+│
+├── Stacks_And_Queues_part2
+│
+├── Stacks_And_Queues_part3
 │
 ├── Binary-Trees
 │
@@ -890,9 +901,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **69 / 193 PROBLEMS SOLVED**
+🟩 **75 / 193 PROBLEMS SOLVED**
 
-📈 **35.8% COMPLETE**
+📈 **38.9% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
