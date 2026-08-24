@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-75%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-38.9%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-80%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-41.5%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -81,16 +81,16 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 75 | 
-| ⏳ Remaining | 118 | 
-| 📈 Completion | 38.9% | 
+| ✅ Problems Solved | 80 | 
+| ⏳ Remaining | 113 | 
+| 📈 Completion | 41.5% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
  
 ### Progress Bar 
  
-███████████████████ ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+██████████████████████  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
  
 ---
 # 🗺️ COMPLETE DSA ROADMAP
@@ -291,15 +291,15 @@ The journey covers:
 
 ## 📌 SECTION 14 — Stacks & Queues Part 2
 
-### ⬜ 0 / 5 Completed
+### 🟩 5 / 5 Completed
 
-- ⬜✔ Time Needed to Buy Tickets
-- ⬜✔ LRU Cache
-- ⬜✔ Get Min Element from Stack
-- ⬜✔ Next Greater Element II
-- ⬜✔ Celebrity Problem
+- 🟩✔ Time Needed to Buy Tickets
+- 🟩✔ LRU Cache
+- 🟩✔ Get Min Element from Stack
+- 🟩✔ Next Greater Element II
+- 🟩✔ Celebrity Problem
 
-**Status: ⏳ PENDING**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -605,7 +605,7 @@ The journey covers:
 | 🔍 Binary Search | 7 | 7 / 7 | ████████████████████ 100% |
 | 🔄 Recursion & Backtracking | 11 | 11 / 11 | ████████████████████ 100% |
 | 🔗 Linked List | 12 | 12 / 12 | ████████████████████ 100% |
-| 📚 Stacks & Queues | 16 | 6 / 16 | █████░░░░░░░░░░░░░░░░ 30% |
+| 📚 Stacks & Queues | 16 | 11 / 16 | ███████████████░░░░░░ 70% |
 | 🌳 Binary Trees | 24 | 0 / 24 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🌲 BST | 15 | 0 / 15 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | ⚡ Heaps | 6 | 0 / 6 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -901,9 +901,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **75 / 193 PROBLEMS SOLVED**
+🟩 **80 / 193 PROBLEMS SOLVED**
 
-📈 **38.9% COMPLETE**
+📈 **41.5% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
