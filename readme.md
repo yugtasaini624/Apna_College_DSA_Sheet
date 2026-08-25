@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-80%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-41.5%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-81%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-42%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -81,9 +81,9 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 80 | 
-| ⏳ Remaining | 113 | 
-| 📈 Completion | 41.5% | 
+| ✅ Problems Solved | 81 | 
+| ⏳ Remaining | 112 | 
+| 📈 Completion | 42% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
@@ -305,13 +305,13 @@ The journey covers:
 
 ## 📌 SECTION 15 — Stacks & Queues Part 3
 
-### ⬜ 0 / 5 Completed
+### ⬜ 1 / 5 Completed
 
 - ⬜✔ Rotten Oranges
 - ⬜✔ Sort a Stack
 - ⬜✔ Stock Span
 - ⬜✔ Circular Tour / Gas Station
-- ⬜✔ Max Area in Histogram
+- 🟩✔ Max Area in Histogram
 
 **Status: ⏳ PENDING**
 
@@ -605,7 +605,7 @@ The journey covers:
 | 🔍 Binary Search | 7 | 7 / 7 | ████████████████████ 100% |
 | 🔄 Recursion & Backtracking | 11 | 11 / 11 | ████████████████████ 100% |
 | 🔗 Linked List | 12 | 12 / 12 | ████████████████████ 100% |
-| 📚 Stacks & Queues | 16 | 11 / 16 | ███████████████░░░░░░ 70% |
+| 📚 Stacks & Queues | 16 | 12 / 16 | ███████████████░░░░░░ 75% |
 | 🌳 Binary Trees | 24 | 0 / 24 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🌲 BST | 15 | 0 / 15 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | ⚡ Heaps | 6 | 0 / 6 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -901,9 +901,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **80 / 193 PROBLEMS SOLVED**
+🟩 **81 / 193 PROBLEMS SOLVED**
 
-📈 **41.5% COMPLETE**
+📈 **42% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
