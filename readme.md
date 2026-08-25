@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-81%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-42%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-91%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-47.2%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -81,16 +81,16 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 81 | 
-| ⏳ Remaining | 112 | 
-| 📈 Completion | 42% | 
+| ✅ Problems Solved | 91 | 
+| ⏳ Remaining | 102 | 
+| 📈 Completion | 47.2% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
  
 ### Progress Bar 
  
-██████████████████████  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+███████████████████████████  ░░░░░░░░░░░░░░░░░░░░░░░░░░░░
  
 ---
 # 🗺️ COMPLETE DSA ROADMAP
@@ -305,30 +305,30 @@ The journey covers:
 
 ## 📌 SECTION 15 — Stacks & Queues Part 3
 
-### ⬜ 1 / 5 Completed
+### 🟩 5 / 5 Completed
 
-- ⬜✔ Rotten Oranges
-- ⬜✔ Sort a Stack
-- ⬜✔ Stock Span
-- ⬜✔ Circular Tour / Gas Station
+- 🟩✔ Rotten Oranges
+- 🟩✔ Sort a Stack
+- 🟩✔ Stock Span
+- 🟩✔ Circular Tour / Gas Station
 - 🟩✔ Max Area in Histogram
 
-**Status: ⏳ PENDING**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
 ## 🌳 SECTION 16 — Binary Trees Part 1
 
-### ⬜ 0 / 6 Completed
+### 🟩 6 / 6 Completed
 
-- ⬜✔ Preorder Traversal
-- ⬜✔ Level Order Traversal
-- ⬜✔ Inorder Traversal
-- ⬜✔ Minimum Distance Between Nodes
-- ⬜✔ Symmetric Tree
-- ⬜✔ Postorder Traversal
+- 🟩✔ Preorder Traversal
+- 🟩✔ Level Order Traversal
+- 🟩✔ Inorder Traversal
+- 🟩✔ Minimum Distance Between Nodes
+- 🟩✔ Symmetric Tree
+- 🟩✔ Postorder Traversal
 
-**Status: ⏳ PENDING**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -605,8 +605,8 @@ The journey covers:
 | 🔍 Binary Search | 7 | 7 / 7 | ████████████████████ 100% |
 | 🔄 Recursion & Backtracking | 11 | 11 / 11 | ████████████████████ 100% |
 | 🔗 Linked List | 12 | 12 / 12 | ████████████████████ 100% |
-| 📚 Stacks & Queues | 16 | 12 / 16 | ███████████████░░░░░░ 75% |
-| 🌳 Binary Trees | 24 | 0 / 24 | ░░░░░░░░░░░░░░░░░░░░ 0% |
+| 📚 Stacks & Queues | 16 | 16 / 16 | ████████████████████ 100% |
+| 🌳 Binary Trees | 24 | 6 / 24 | █████░░░░░░░░░░░░░░░ 25% |
 | 🌲 BST | 15 | 0 / 15 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | ⚡ Heaps | 6 | 0 / 6 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🔤 Tries | 5 | 0 / 5 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -696,7 +696,13 @@ DSA-Practice
 │
 ├── Stacks_And_Queues_part3
 │
-├── Binary-Trees
+├── Binary_Trees_part1
+│
+├── Binary_Trees_part2
+│
+├── Binary_Trees_part3
+│
+├── Binary_Trees_part4
 │
 ├── BST
 │
@@ -901,9 +907,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **81 / 193 PROBLEMS SOLVED**
+🟩 **91 / 193 PROBLEMS SOLVED**
 
-📈 **42% COMPLETE**
+📈 **47.2% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
