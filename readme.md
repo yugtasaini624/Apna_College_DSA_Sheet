@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-94%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-48.7%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-95%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-49.2%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -81,9 +81,9 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 94 | 
-| ⏳ Remaining | 99 | 
-| 📈 Completion | 48.7% | 
+| ✅ Problems Solved | 95 | 
+| ⏳ Remaining | 98 | 
+| 📈 Completion | 49.2% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
@@ -334,10 +334,10 @@ The journey covers:
 
 ## 🌳 SECTION 17 — Binary Trees Part 2
 
-### ⬜ 3 / 6 Completed
+### ⬜ 4 / 6 Completed
 
 - 🟩✔ Morris Inorder Traversal
-- ⬜✔ Diameter of a Tree
+- 🟩✔ Diameter of a Tree
 - 🟩✔ Are 2 Trees Identical or Not
 - 🟩✔ Check if BT Mirror of Itself or Not
 - ⬜✔ Subtree of Another Tree
@@ -606,7 +606,7 @@ The journey covers:
 | 🔄 Recursion & Backtracking | 11 | 11 / 11 | ████████████████████ 100% |
 | 🔗 Linked List | 12 | 12 / 12 | ████████████████████ 100% |
 | 📚 Stacks & Queues | 16 | 16 / 16 | ████████████████████ 100% |
-| 🌳 Binary Trees | 24 | 9 / 24 | ███████░░░░░░░░░░░░░ 40% |
+| 🌳 Binary Trees | 24 | 10 / 24 | ███████░░░░░░░░░░░░░ 42% |
 | 🌲 BST | 15 | 0 / 15 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | ⚡ Heaps | 6 | 0 / 6 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🔤 Tries | 5 | 0 / 5 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -907,9 +907,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **94 / 193 PROBLEMS SOLVED**
+🟩 **95 / 193 PROBLEMS SOLVED**
 
-📈 **48.7% COMPLETE**
+📈 **49.2% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
