@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-97%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-50.3%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-100%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-51.8%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -81,9 +81,9 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 97 | 
-| ⏳ Remaining | 96 | 
-| 📈 Completion | 50.3% | 
+| ✅ Problems Solved | 100 | 
+| ⏳ Remaining | 93 | 
+| 📈 Completion | 51.8% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
@@ -349,11 +349,11 @@ The journey covers:
 
 ## 🌳 SECTION 18 — Binary Trees Part 3
 
-### ⬜ 0 / 6 Completed
+### ⬜ 3 / 6 Completed
 
-- ⬜✔ Bottom View of a Tree
-- ⬜✔ Top View of a Tree
-- ⬜✔ Lowest Common Ancestor (LCA)
+- 🟩✔ Bottom View of a Tree
+- 🟩✔ Top View of a Tree
+- 🟩✔ Lowest Common Ancestor (LCA)
 - ⬜✔ Kth Level of Tree
 - ⬜✔ Construct BT from Inorder & Preorder
 - ⬜✔ Transform to Sum Tree
@@ -606,7 +606,7 @@ The journey covers:
 | 🔄 Recursion & Backtracking | 11 | 11 / 11 | ████████████████████ 100% |
 | 🔗 Linked List | 12 | 12 / 12 | ████████████████████ 100% |
 | 📚 Stacks & Queues | 16 | 16 / 16 | ████████████████████ 100% |
-| 🌳 Binary Trees | 24 | 12 / 24 | ███████████░░░░░░░░░ 50% |
+| 🌳 Binary Trees | 24 | 15 / 24 | ██████████████░░░░░░ 65% |
 | 🌲 BST | 15 | 0 / 15 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | ⚡ Heaps | 6 | 0 / 6 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🔤 Tries | 5 | 0 / 5 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -907,9 +907,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **97 / 193 PROBLEMS SOLVED**
+🟩 **100 / 193 PROBLEMS SOLVED**
 
-📈 **50.3% COMPLETE**
+📈 **51.8% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
