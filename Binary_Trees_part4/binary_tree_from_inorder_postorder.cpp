@@ -43,7 +43,7 @@ struct TreeNode {
 class Solution {
 public:
     TreeNode* buildTree(vector<int>& inorder, vector<int>& postorder) {
-        int n = size(inorder), postIdx = n-1;
+        int n = inorder.size(), postIdx = n-1;
         return build(inorder, postorder, 0, n-1, postIdx);
     }
 
