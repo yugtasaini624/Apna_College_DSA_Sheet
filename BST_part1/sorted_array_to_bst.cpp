@@ -1,8 +1,6 @@
 /*
 Given an integer array nums where the elements are sorted in ascending order, convert it to a height-balanced binary search tree.
 
- 
-
 Example 1:
 
 Input: nums = [-10,-3,0,5,9]
