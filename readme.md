@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-117%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-60.6%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-119%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-61.7%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -81,16 +81,16 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 117 | 
-| ⏳ Remaining | 76 | 
-| 📈 Completion | 60.6% | 
+| ✅ Problems Solved | 119 | 
+| ⏳ Remaining | 74 | 
+| 📈 Completion | 61.7% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
  
 ### Progress Bar 
  
-███████████████████████████████ ░░░░░░░░░░░░░░░░░░░░░░░░
+███████████████████████████████████ ░░░░░░░░░░░░░░░░░░░░
  
 ---
 # 🗺️ COMPLETE DSA ROADMAP
@@ -393,15 +393,15 @@ The journey covers:
 
 ## 🌲 SECTION 21 — BST Part 2
 
-### ⬜ 3 / 5 Completed
+### 🟩 5 / 5 Completed
 
 - 🟩✔ Recover BST
 - 🟩✔ Populate Next Right Pointers
 - 🟩✔ Construct from Preorder
-- ⬜✔ BST Iterator
-- ⬜✔ Flatten BST to Sorted List
+- 🟩✔ BST Iterator
+- 🟩✔ Flatten BST to Sorted List
 
-**Status: ⏳ PENDING**
+**Status: 🟩✔ COMPLETED** 
 
 ---
 
@@ -607,7 +607,7 @@ The journey covers:
 | 🔗 Linked List | 12 | 12 / 12 | ████████████████████ 100% |
 | 📚 Stacks & Queues | 16 | 16 / 16 | ████████████████████ 100% |
 | 🌳 Binary Trees | 24 | 24 / 24 | ████████████████████ 100% |
-| 🌲 BST | 15 | 8 / 15 | ███████████░░░░░░░░░ 50% |
+| 🌲 BST | 15 | 10 / 15 | ███████████████░░░░░ 70% |
 | ⚡ Heaps | 6 | 0 / 6 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🔤 Tries | 5 | 0 / 5 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🌐 Graphs | 26 | 0 / 26 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -911,9 +911,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **117 / 193 PROBLEMS SOLVED**
+🟩 **119 / 193 PROBLEMS SOLVED**
 
-📈 **60.6% COMPLETE**
+📈 **61.7% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
