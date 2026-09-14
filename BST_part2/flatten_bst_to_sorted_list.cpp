@@ -1,5 +1,5 @@
 /*
-🟢 LeetCode 897 — Increasing Order Search Tree
+LeetCode 897 — Increasing Order Search Tree
 
 Problem:
 Given the root of a Binary Search Tree, rearrange the tree so that:
