@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-119%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-61.7%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-120%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-62.2%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -81,9 +81,9 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 119 | 
-| ⏳ Remaining | 74 | 
-| 📈 Completion | 61.7% | 
+| ✅ Problems Solved | 120 | 
+| ⏳ Remaining | 73 | 
+| 📈 Completion | 62.2% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
@@ -407,9 +407,9 @@ The journey covers:
 
 ## 🌲 SECTION 22 — BST Part 3
 
-### ⬜ 0 / 5 Completed
+### ⬜ 1 / 5 Completed
 
-- ⬜✔ Merge 2 BSTs
+- 🟩✔ Merge 2 BSTs
 - ⬜✔ Serialize & Deserialize BST
 - ⬜✔ Inorder Predecessor
 - ⬜✔ Largest BST in BT
@@ -607,7 +607,7 @@ The journey covers:
 | 🔗 Linked List | 12 | 12 / 12 | ████████████████████ 100% |
 | 📚 Stacks & Queues | 16 | 16 / 16 | ████████████████████ 100% |
 | 🌳 Binary Trees | 24 | 24 / 24 | ████████████████████ 100% |
-| 🌲 BST | 15 | 10 / 15 | ███████████████░░░░░ 70% |
+| 🌲 BST | 15 | 11 / 15 | ███████████████░░░░░ 79% |
 | ⚡ Heaps | 6 | 0 / 6 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🔤 Tries | 5 | 0 / 5 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🌐 Graphs | 26 | 0 / 26 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -911,9 +911,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **119 / 193 PROBLEMS SOLVED**
+🟩 **120 / 193 PROBLEMS SOLVED**
 
-📈 **61.7% COMPLETE**
+📈 **62.2% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
