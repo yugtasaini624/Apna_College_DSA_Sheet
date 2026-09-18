@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-121%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-62.7%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-124%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-64.2%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -81,9 +81,9 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 121 | 
-| ⏳ Remaining | 72 | 
-| 📈 Completion | 62.7% | 
+| ✅ Problems Solved | 124 | 
+| ⏳ Remaining | 69 | 
+| 📈 Completion | 64.2% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
@@ -407,15 +407,15 @@ The journey covers:
 
 ## 🌲 SECTION 22 — BST Part 3
 
-### ⬜ 2 / 5 Completed
+### 🟩 5 / 5 Completed
 
 - 🟩✔ Merge 2 BSTs
 - 🟩✔ Serialize & Deserialize BST
-- ⬜✔ Inorder Predecessor
-- ⬜✔ Largest BST in BT
-- ⬜✔ Inorder Successor
+- 🟩✔ Inorder Predecessor
+- 🟩✔ Largest BST in BT
+- 🟩✔ Inorder Successor
 
-**Status: ⏳ PENDING**
+**Status: 🟩✔ COMPLETED**
 
 ---
 
@@ -607,7 +607,7 @@ The journey covers:
 | 🔗 Linked List | 12 | 12 / 12 | ████████████████████ 100% |
 | 📚 Stacks & Queues | 16 | 16 / 16 | ████████████████████ 100% |
 | 🌳 Binary Trees | 24 | 24 / 24 | ████████████████████ 100% |
-| 🌲 BST | 15 | 12 / 15 | ███████████████░░░░░ 85% |
+| 🌲 BST | 15 | 15 / 15 | ████████████████████ 100% |
 | ⚡ Heaps | 6 | 0 / 6 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🔤 Tries | 5 | 0 / 5 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🌐 Graphs | 26 | 0 / 26 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -911,9 +911,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **121 / 193 PROBLEMS SOLVED**
+🟩 **124 / 193 PROBLEMS SOLVED**
 
-📈 **62.7% COMPLETE**
+📈 **64.2% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
