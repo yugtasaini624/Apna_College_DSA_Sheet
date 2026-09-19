@@ -5,8 +5,8 @@
 <p align="center">
   <img src="https://img.shields.io/badge/DSA-Practice-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Problems-193-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Completed-125%2F193-brightgreen?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Progress-64.8%25-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Completed-127%2F193-brightgreen?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Progress-65.8%25-success?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B" />
 </p>
 
@@ -81,9 +81,9 @@ The journey covers:
 | Metric | Progress | 
 | ------------------- | ------------------- | 
 | 📚 Total Problems | 193 | 
-| ✅ Problems Solved | 125 | 
-| ⏳ Remaining | 68 | 
-| 📈 Completion | 64.8% | 
+| ✅ Problems Solved | 127 | 
+| ⏳ Remaining | 66 | 
+| 📈 Completion | 65.8% | 
 | 🗂️ Sections | 34 | 
 | 💻 Primary Language | C++ | 
 | 📌 Practice Sheet | Apna College DSA Sheet | 
@@ -421,14 +421,14 @@ The journey covers:
 
 ## ⚡ SECTION 23 — Heaps
 
-### ⬜ 1 / 6 Completed
+### ⬜ 3 / 6 Completed
 
 - 🟩✔ Merge K Sorted Arrays
-- ⬜✔ K Most Frequent Elements
+- 🟩✔ K Most Frequent Elements
 - ⬜✔ Median from Stream
 - ⬜✔ Smallest Range in K Sorted List
 - ⬜✔ Kth Smallest Element
-- ⬜✔ Heap Sort
+- 🟩✔ Heap Sort
 
 **Status: ⏳ PENDING**
 
@@ -608,7 +608,7 @@ The journey covers:
 | 📚 Stacks & Queues | 16 | 16 / 16 | ████████████████████ 100% |
 | 🌳 Binary Trees | 24 | 24 / 24 | ████████████████████ 100% |
 | 🌲 BST | 15 | 15 / 15 | ████████████████████ 100% |
-| ⚡ Heaps | 6 | 1 / 6 | ██████░░░░░░░░░░░░░░ 18% |
+| ⚡ Heaps | 6 | 3 / 6 | ████████████░░░░░░░░ 50% |
 | 🔤 Tries | 5 | 0 / 5 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🌐 Graphs | 26 | 0 / 26 | ░░░░░░░░░░░░░░░░░░░░ 0% |
 | 🧮 Dynamic Programming | 21 | 0 / 21 | ░░░░░░░░░░░░░░░░░░░░ 0% |
@@ -911,9 +911,9 @@ The README is updated alongside the repository so the progress remains visible.
 
 <p align="center">
 
-🟩 **125 / 193 PROBLEMS SOLVED**
+🟩 **127 / 193 PROBLEMS SOLVED**
 
-📈 **64.8% COMPLETE**
+📈 **65.8% COMPLETE**
 
 🧠 **DSA PRACTICE IN PROGRESS**
 
